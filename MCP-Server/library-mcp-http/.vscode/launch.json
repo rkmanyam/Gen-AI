@@ -1,0 +1,75 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "Python: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        },
+
+        {
+            "name": "Debug server.py",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/server.py",
+            "console": "integratedTerminal"
+        },
+
+        {
+            "name": "Python with Arguments",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/server.py",
+            "args": [
+                "dev",
+                "8080"
+            ],
+            "console": "integratedTerminal"
+        },
+
+        {
+            "name": "Debug Module (python -m)",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "uvicorn",
+            "args": [
+                "main:app",
+                "--reload"
+            ],
+            "console": "integratedTerminal"
+        },
+
+        {
+            "name": "Debug MCP Server",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/server.py",
+            "console": "integratedTerminal"
+        },
+
+        {
+            "name": "Debug using uv",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "uv",
+            "args": [
+                "run",
+                "server.py"
+            ],
+            "console": "integratedTerminal"
+        },
+
+        {
+            "name": "Attach to Running Python",
+            "type": "debugpy",
+            "request": "attach",
+            "connect": {
+                "host": "localhost",
+                "port": 5678
+            }
+        }
+    ]
+}
