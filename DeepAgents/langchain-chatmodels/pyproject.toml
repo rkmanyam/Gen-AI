@@ -1,0 +1,12 @@
+[project]
+name = "langchain-chatmodels"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "botocore[crt]>=1.43.40",
+    "langchain-aws>=1.6.1",
+    "langchain-google-genai>=4.2.6",
+    "python-dotenv>=1.2.2",
+]
