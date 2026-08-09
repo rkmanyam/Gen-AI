@@ -1,0 +1,6 @@
+{
+    "dependencies": ".",
+    "graphs": {
+        "backend-agent": "deepagent:agent"
+    }
+}

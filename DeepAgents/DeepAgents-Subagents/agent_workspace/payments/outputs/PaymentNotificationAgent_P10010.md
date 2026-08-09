@@ -1,0 +1,1 @@
+The alert for payment P10010 has been successfully processed. The status of the payment is 'Success'.

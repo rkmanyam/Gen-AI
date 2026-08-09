@@ -1,0 +1,6 @@
+{
+    "dependencies": ".",
+    "graphs": {
+        "myagent": "main:agent"
+    }
+}
