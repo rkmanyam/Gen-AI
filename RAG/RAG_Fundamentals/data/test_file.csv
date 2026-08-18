@@ -1,0 +1,20 @@
+Policy_ID,Category,Policy_Name,Description,Applies_To,Effective_Date,Review_Cycle,Owner,Compliance_Level
+HR001,Attendance,Attendance Policy,Employees must report to work on time and record attendance daily,All Employees,2026-01-01,Annual,HR Department,High
+HR002,Leave,Annual Leave Policy,Employees are entitled to 24 days of paid annual leave,All Employees,2026-01-01,Annual,HR Department,High
+HR003,Leave,Sick Leave Policy,Employees may avail sick leave upon informing their manager,All Employees,2026-01-01,Annual,HR Department,High
+HR004,Leave,Casual Leave Policy,Employees receive 12 casual leave days annually,All Employees,2026-01-01,Annual,HR Department,Medium
+HR005,Code of Conduct,Professional Behavior Policy,Employees must maintain professional conduct at work,All Employees,2026-01-01,Annual,HR Department,High
+HR006,Remote Work,Work From Home Policy,Eligible employees may work remotely up to three days weekly,Eligible Employees,2026-01-01,Semi-Annual,HR Department,Medium
+HR007,Security,Password Policy,Passwords must be changed every 90 days,All Employees,2026-01-01,Annual,IT Security,High
+HR008,Security,Data Privacy Policy,Personal and company data must be handled securely,All Employees,2026-01-01,Annual,IT Security,High
+HR009,Recruitment,Hiring Policy,Recruitment must follow equal opportunity guidelines,Hiring Managers,2026-01-01,Annual,Talent Acquisition,High
+HR010,Recruitment,Background Verification Policy,All selected candidates undergo background verification,New Hires,2026-01-01,Annual,Talent Acquisition,High
+HR011,Compensation,Salary Revision Policy,Salary reviews occur annually based on performance,All Employees,2026-01-01,Annual,Compensation Team,Medium
+HR012,Benefits,Health Insurance Policy,Employees receive company-sponsored health insurance,Permanent Employees,2026-01-01,Annual,HR Department,High
+HR013,Benefits,Life Insurance Policy,Life insurance coverage is provided to eligible employees,Permanent Employees,2026-01-01,Annual,HR Department,Medium
+HR014,Travel,Business Travel Policy,Travel expenses must follow approved reimbursement guidelines,All Employees,2026-01-01,Annual,Finance,Medium
+HR015,Expenses,Expense Reimbursement Policy,Valid business expenses are reimbursed within 30 days,All Employees,2026-01-01,Annual,Finance,Medium
+HR016,Training,Learning and Development Policy,Employees are encouraged to complete annual training,All Employees,2026-01-01,Annual,Learning Team,Low
+HR017,Performance,Performance Review Policy,Performance reviews are conducted twice a year,All Employees,2026-01-01,Semi-Annual,HR Department,High
+HR018,Performance,Promotion Policy,Promotions are based on merit and business needs,All Employees,2026-01-01,Annual,HR Department,Medium
+HR019,Diversity,Equal Opportunity Policy,Employment decisions are free from discrimination,All Employees,2026-01-01,Annual,HR Department,High
