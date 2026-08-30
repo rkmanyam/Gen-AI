@@ -1,7 +1,10 @@
 from deepagents import create_deep_agent
 from deepagents.backends import StateBackend, FilesystemBackend, CompositeBackend
 from utils import get_model
+from dotenv import load_dotenv
+import os
 
+load_dotenv()
 
 
 model = get_model()
