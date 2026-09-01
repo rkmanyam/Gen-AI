@@ -1,6 +1,0 @@
-{
-    "dependencies": ".",
-    "graphs": {
-        "main_agent": "main:agent"
-    }
-}

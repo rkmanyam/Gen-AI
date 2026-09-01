@@ -1,1 +1,0 @@
-There are no payments with a 'Success' status for today (08-08-2026). All payments for this date are currently 'InProgress'.

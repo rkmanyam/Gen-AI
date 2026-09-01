@@ -1,1 +1,0 @@
-The number of failed payments in the database is 25.
